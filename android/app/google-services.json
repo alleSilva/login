@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542820946506",
+    "project_id": "login-app-ale",
+    "storage_bucket": "login-app-ale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542820946506:android:dc44a6e2406765a8f44cb3",
+        "android_client_info": {
+          "package_name": "br.com.alesandro.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542820946506-iba6tklvehhvkj4rj065neeehjdp7779.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.alesandro.login",
+            "certificate_hash": "b53759d7f84508264605976ee65705507b5c1059"
+          }
+        },
+        {
+          "client_id": "542820946506-5521l7fe80tc8ror499b8b2rg3eeqknn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP-oRnQMvA3_XPsJ9xxNyS-qkDBfcjrys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542820946506-5521l7fe80tc8ror499b8b2rg3eeqknn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
